@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CsvFile.Kata.Dependencies</id>
+    <version>1.1.0</version>
+    <title>CsvFile Kata Dependencies</title>
+    <authors>TddBuddy</authors>
+    <owners>StoneAge Technologies</owners>
+    <projectUrl>http://x.com</projectUrl>
+    <iconUrl>http://x.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>CsvFile Kata Dependencies</description>
+    <releaseNotes>Moved to .NetFramework instead of .NetStandard</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>CsvFile Kata</tags>
+  </metadata>
+</package>
